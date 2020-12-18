@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://br.linkedin.com/in/xcasluw)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I like to sing in the shower 🤣
--->

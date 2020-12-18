@@ -18,10 +18,10 @@ I'm a guy who likes to make videos for [YouTube](https://www.youtube.com/lucasge
   <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
 </a>
 
-- 🔭 I’m currently working on my health and making customers happy
-- 🌱 I’m currently learning NEXTS
+- 🔭 I’m currently working on my English skills
+- 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on a potential project for English Learners
-- 🤔 I’m looking for help with youtube/site redesign
+- 🤔 I’m looking for help with my English speaking
 - 💬 Ask me about anything
 - 📫 How to reach me: `Lucas Genari (xcasluw) on Google`
 - 😄 Pronouns: he/him

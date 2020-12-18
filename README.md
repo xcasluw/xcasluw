@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://gpvc.arturio.dev/xcasluw" alt="profile views"> •  
   <a href="https://www.linkedin.com/in/xcasluw/">LinkedIn Profile</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton">YouTube Channel</a> •
+  <a href="https://www.youtube.com/lucasgenari/">YouTube Channel</a> •
 </p>
 
 ---

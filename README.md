@@ -14,10 +14,6 @@
 
 I'm a guy who likes to make videos for [YouTube](https://www.youtube.com/lucasgenari/) and Developer focusing on fullstack web applications.
 
-<a href="https://myoctocat.dev/@sw-yx/octocat">
-  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
-</a>
-
 - 🔭 I’m currently working on my English skills
 - 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on a potential project for English Learners

@@ -77,5 +77,5 @@ I'm a guy who likes to make videos for [YouTube](https://www.youtube.com/lucasge
 
 <p align="left">
 <a href="https://www.linkedin.com/in/xcasluw/"><img src="https://img.shields.io/badge/-xcasluw-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:oligena@hotmail.com"><img src="https://img.shields.io/badge/-Lucas%20Genari-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:oligena@hotmail.com"><img src="https://img.shields.io/badge/-lucasgenari-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>

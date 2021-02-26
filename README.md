@@ -23,6 +23,8 @@ I'm a guy who likes to make videos for [YouTube](https://www.youtube.com/lucasge
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to sing in the shower 🤣
 
+---
+
 ### Languages & Tools 🛠
 
 

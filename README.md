@@ -44,6 +44,7 @@ I'm a guy who likes to make videos for [YouTube](https://www.youtube.com/lucasge
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
 
+---
 
 ### Analytics ⚙️
 

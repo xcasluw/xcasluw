@@ -79,4 +79,5 @@ I'm a guy who likes to make videos for [YouTube](https://www.youtube.com/lucasge
 <a href="https://www.linkedin.com/in/xcasluw/"><img src="https://img.shields.io/badge/-xcasluw-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://discord.com/app"><img src="https://img.shields.io/badge/-Lucas%20Genari%207225-594AB1?style=flat&logo=discord&logoColor=white"/></a>
 <a href="mailto:oligena@hotmail.com"><img src="https://img.shields.io/badge/-lucasgenari-F5F5F5?style=flat&logo=microsoft&logoColor=blue"/></a>
+<a href="https://steamcommunity.com/id/xcasluw/"><img src="https://img.shields.io/badge/-xcasluw-413D3D?style=flat&logo=steam"/></a>
 </p>

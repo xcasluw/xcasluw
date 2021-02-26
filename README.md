@@ -41,3 +41,25 @@ I'm a guy who likes to make videos for [YouTube](https://www.youtube.com/lucasge
 ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![MacOS](https://img.shields.io/badge/-MacOS-05122A?style=flat&logo=apple)&nbsp;
+
+
+### Analytics ⚙️
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=xcasluw)
+
+<p align="left">
+<a href="https://github.com/xcasluw">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=xcasluw&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xcasluw&layout=compact&langs_count=8"/>
+</a>
+</p>
+
+<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
+
+<!-- <p align="center">
+  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
+</p> -->
+
+### Let's connect ? 🤝

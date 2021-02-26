@@ -56,6 +56,4 @@ I'm a guy who likes to make videos for [YouTube](https://www.youtube.com/lucasge
 </a>
 </p>
 
-<img width="100%" src="profile-summary-card-output/github/0-profile-details.svg" />
-
 ### Let's connect ? 🤝

@@ -74,7 +74,7 @@ I'm a guy who likes to make videos for [YouTube](https://www.youtube.com/lucasge
 </a>
 </p>
 
-### Let's connect ? 🤝
+### Let's connect? 🤝
 
 <p align="left">
 <a href="https://www.linkedin.com/in/xcasluw/"><img src="https://img.shields.io/badge/-xcasluw-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>

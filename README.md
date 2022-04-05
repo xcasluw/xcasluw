@@ -12,7 +12,7 @@
 
 ---
 
-I'm a guy who likes to make videos for [YouTube](https://www.youtube.com/lucasgenari) and Developer focusing on fullstack web applications.
+I'm a guy who enjoy to make videos for [YouTube](https://www.youtube.com/lucasgenari) and Developer focusing on fullstack web applications.
 
 - 🔭 I’m currently working on my English skills
 - 🌱 I’m currently learning NextJS

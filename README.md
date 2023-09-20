@@ -52,10 +52,11 @@
 ---
 -->
 
+<!--
 ### Analytics ⚙️
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=xcasluw)
-
+-->
 <!--
 <p align="left">
 <a href="https://github.com/xcasluw">
